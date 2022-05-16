@@ -4,6 +4,5 @@ The speech signals from 286 children (141 girls, 145 boys), ages 6 to 9-year-old
 # Cite
 Khanzadi, M., Veisi, H., Alinaghizade, R., & Soleymani, Z. (2022). Persian Phoneme and Syllable Recognition using Recurrent Neural Networks for Phonological Awareness Assessment. Journal of AI and Data Mining, 10(1), 117-126. http://jad.shahroodut.ac.ir/article_2338.html
 
-
-    مریم خانزادی، هادی ویسی، طراحي و جمع‌آوري پيکره دادگان صوتي کودکان جهت پياده‌سازي سيستم بازشناسي گفتار تشخيص واج و هجاي فارسي،  بیست و چهارمین کنفرانس ملی سالانه انجمن کامپیوتر ایران 
+مریم خانزادی، هادی ویسی، طراحي و جمع‌آوري پيکره دادگان صوتي کودکان جهت پياده‌سازي سيستم بازشناسي گفتار تشخيص واج و هجاي فارسي،  بیست و چهارمین کنفرانس ملی سالانه انجمن کامپیوتر ایران 
     https://csi.org.ir/fa/paper/view/id/2597
